@@ -4,7 +4,6 @@ Applying Machine Learning to forecast housing prices in a volatile and unstable 
 [//]: # (Image References)
 
 [im01]: ./github_pics/russian_housing_banner.png "Russian Housing Banner"
-#[im02]: ./github_pics/russian_housing_rank.png "Russian Housing Rank"
 
 ![alt text][im01]
 
